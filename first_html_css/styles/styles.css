@@ -1,0 +1,46 @@
+body{
+
+    background-color: powderblue;
+}
+
+h1{
+
+    color: blue;
+    text-align:left;
+}
+
+p{
+
+    text-align:left;
+    color:navy;
+}
+
+nav {
+    background-color: #0c0077;
+    
+    }
+    
+nav ul {
+    
+    list-style-type: none;
+    
+    margin: 0;
+    
+    padding: 0;
+    
+}
+    
+nav li {
+    
+    display:inline;
+    margin-right: 20px;
+    
+}
+    
+nav a {
+    
+    color: #0044ff;
+    
+    text-decoration: none;
+    
+}
